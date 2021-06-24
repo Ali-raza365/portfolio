@@ -5,7 +5,7 @@ function Header() {
      return (
           <>
                <div class="upbtnwrapp">
-                <div class="upbtn"><span class="icon-up-open-big"></span></div>
+                <AnchorLink href="#about_me" class="upbtn"><span class="icon-up-open-big"></span></AnchorLink>
             </div>
 
             {/* <!-- NAVIGATION --> */}
